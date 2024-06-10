@@ -17,7 +17,7 @@
   <a href="mailto:deoremohit167@gmail.com">deoremohit167@gmail.com</a>
 </p>
 <p>📄 Know about my experience <br>
-  <a href="https://drive.google.com/file/d/1PIJxvgBApepyR3atubWJx5WMlHGxTDt4/view?usp=sharing"</a>
+  <a href="https://drive.google.com/file/d/1PIJxvgBApepyR3atubWJx5WMlHGxTDt4/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1PIJxvgBApepyR3atubWJx5WMlHGxTDt4/view?usp=sharing</a>
 </p>
 
 <img align="right" height="159" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNhZHFscTlsOTZkajlrN3dseTk5MGFsYWR0dW53dHp6Njd4a2tnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
