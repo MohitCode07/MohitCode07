@@ -19,6 +19,9 @@
 <p>📄 Know about my experience <br>
   <a href="https://drive.google.com/file/d/1PIJxvgBApepyR3atubWJx5WMlHGxTDt4/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1PIJxvgBApepyR3atubWJx5WMlHGxTDt4/view?usp=sharing</a>
 </p>
+<p> My portfolio<br>
+  <a href="https://66728aa5ab5badd0897b038a--incredible-mousse-4d47f2.netlify.app">Click Here</a>
+</p>
 
 <img align="right" height="159" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNhZHFscTlsOTZkajlrN3dseTk5MGFsYWR0dW53dHp6Njd4a2tnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
